@@ -1,0 +1,52 @@
+﻿[
+    {
+        "id": 1,
+        "uuid": null,
+        "uomCode": "case",
+        "description": "case",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": "2019-10-07 21:39:40",
+        "updated_at": "2019-10-07 21:39:41"
+    },
+    {
+        "id": 2,
+        "uuid": null,
+        "uomCode": "piece",
+        "description": "piece",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": "2019-10-07 21:40:10",
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "uuid": null,
+        "uomCode": "carton",
+        "description": "carton",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "uuid": null,
+        "uomCode": "pallet",
+        "description": "pallet",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "uuid": null,
+        "uomCode": "batch",
+        "description": "batch",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]

@@ -1,0 +1,25 @@
+﻿
+[
+    {
+        "id": 1,
+        "uuid": "",
+        "roleCode": "admin",
+        "description": "Administrator",
+        "isActive": 1,
+        "createdBy": 0,
+        "updatedBy": null,
+        "created_at": "2019-10-26 17:41:54",
+        "updated_at": "2019-10-26 17:41:54"
+    },
+    {
+        "id": 2,
+        "uuid": "",
+        "roleCode": "user",
+        "description": "Standard User",
+        "isActive": 1,
+        "createdBy": 0,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]

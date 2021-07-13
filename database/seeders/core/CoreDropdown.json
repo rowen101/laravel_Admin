@@ -1,0 +1,45 @@
+﻿
+[
+    {
+        "id": 1,
+        "tableKey": "permission",
+        "columnKey": "permission",
+        "identityCode": "insert",
+        "description": "Insert Record",
+        "sortOrder": 10,
+        "traceCode": 50,
+        "isActive": 1,
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "tableKey": "permission",
+        "columnKey": "permission",
+        "identityCode": "update",
+        "description": "Update Record",
+        "sortOrder": 10,
+        "traceCode": 50,
+        "isActive": 1,
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "tableKey": "permission",
+        "columnKey": "permission",
+        "identityCode": "delete",
+        "description": "Delete Record",
+        "sortOrder": 10,
+        "traceCode": 50,
+        "isActive": 1,
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]

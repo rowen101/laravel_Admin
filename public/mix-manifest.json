@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/application.js": "/js/application.js",
+    "/js/helpdesk.js": "/js/helpdesk.js",
+    "/js/menu.js": "/js/menu.js",
+    "/js/permission.js": "/js/permission.js",
+    "/js/role.js": "/js/role.js",
+    "/js/user.js": "/js/user.js",
+    "/css/app.css": "/css/app.css",
+    "/css/custom-style.css": "/css/custom-style.css"
+}

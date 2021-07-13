@@ -1,0 +1,31 @@
+﻿
+[
+    {
+        "id": 1,
+        "uuid": null,
+        "appCode": "OUR",
+        "appName": "Omni Unified Resource Software",
+        "appDescription": "Managment portal for all applications",
+        "appIcon": "default",
+        "appStatus": "Active",
+        "statusMessage": "Welcome",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "uuid": null,
+        "appCode": "WMS",
+        "appName": "Warehouse Management Solution",
+        "appDescription": "Warehouse Management",
+        "appIcon": "default",
+        "appStatus": "Active",
+        "statusMessage": "Welcome",
+        "createdBy": 1,
+        "updatedBy": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]
