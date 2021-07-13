@@ -1,4 +1,4 @@
-## Timeless Starter
+## Laravel Admin Starter
 
 Requirements:
 
@@ -8,7 +8,7 @@ Requirements:
 
 ##### 1. Cloning and install Dependencies via composer
 
-git clone https://github.com/Code-Safe/cscore.git ProjectName
+git clone https://github.com/rowen101/laravel_Admin.git ProjectName
 
 checkout main branch
 
